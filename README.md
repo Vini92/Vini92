@@ -1,4 +1,4 @@
-!["Tecnology"](https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif)
+<img align="right" width="400" height="300" src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif">
 
 ## Hello! Welcome to my profile 👋
 
@@ -26,5 +26,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+!["Tecnology"](https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif)
+
+### Contat me
+
 -->
   
