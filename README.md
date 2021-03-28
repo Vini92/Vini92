@@ -8,7 +8,7 @@ I love to solve problems and have fun learning new things.
 
 ### Contact me :computer:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Vini92/Vini92)](https://github.com/Vini92/Vini92)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Vini92)](https://github.com/Vini92)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinícius-ribeiro-4034b81b8/)](https://www.linkedin.com/in/vinícius-ribeiro-4034b81b8/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:vinic.s.ribeiro@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5583993428496&text=Hello!)](https://api.whatsapp.com/send?phone=5583993428496&text=Hello!)
